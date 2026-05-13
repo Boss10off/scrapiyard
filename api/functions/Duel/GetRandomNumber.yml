@@ -8,13 +8,13 @@ status:
 parameters:
   - name: min
     type: [ int ]
-    description: (To be added)
+    description: The lowest number that can be returned.
     required: false
   - name: max
     type: [ int ]
-    description: (To be added)
-    required: false
+    description: The Number above the highest number that can be returned.
+    reqired: true
 returns:
   - type: [ int ]
-    description: (To be added)
+    description: Random number between min(inclusive) and max(exclusive). 
 tags: [ under-construction ]
