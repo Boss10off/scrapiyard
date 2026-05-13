@@ -8,8 +8,8 @@ status:
 parameters:
   - name: c
     type: [ Card ]
-    description: (To be added)
+    description: Card that gets checked.
 returns:
   - type: [ int ]
-    description: (To be added)
+    description: The Rank of given card or 0 if it has none(Link or Level)
 tags: [ under-construction ]
