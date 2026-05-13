@@ -8,8 +8,8 @@ status:
 parameters:
   - name: e
     type: [ Effect ]
-    description: (To be added)
+    description: Effect that gets cloned.
 returns:
   - type: [ Effect ]
-    description: (To be added)
+    description: New Effect that is a clone of the first one. 
 tags: [ under-construction ]
