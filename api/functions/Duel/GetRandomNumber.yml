@@ -13,7 +13,7 @@ parameters:
   - name: max
     type: [ int ]
     description: The Number above the highest number that can be returned.
-    reqired: true
+    required: true
 returns:
   - type: [ int ]
     description: Random number between min(inclusive) and max(exclusive).
