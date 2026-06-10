@@ -12,4 +12,3 @@ parameters:
 returns:
   - type: [ int ]
     description: The Rank of given card or 0 if it has none(Link or Level)
-tags: [ under-construction ]
