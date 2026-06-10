@@ -16,5 +16,4 @@ parameters:
     reqired: true
 returns:
   - type: [ int ]
-    description: Random number between min(inclusive) and max(exclusive). 
-tags: [ under-construction ]
+    description: Random number between min(inclusive) and max(exclusive).
