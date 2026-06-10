@@ -11,5 +11,4 @@ parameters:
     description: Effect that gets cloned.
 returns:
   - type: [ Effect ]
-    description: New Effect that is a clone of the first one. 
-tags: [ under-construction ]
+    description: New Effect that is a clone of the first one.
