@@ -8,11 +8,10 @@ status:
 parameters:
   - name: c
     type: [ Card ]
-    description: (To be added)
+    description: Card that gets checked.
   - name: ...
     type: [ int ]
-    description: (To be added)
+    description: The DEF Values that get checked.
 returns:
   - type: [ bool ]
-    description: (To be added)
-tags: [ under-construction ]
+    description: true if the DEF of the checked card is equal to one of the given values after "c". false if not.
