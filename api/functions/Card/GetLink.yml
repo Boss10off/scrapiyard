@@ -11,4 +11,4 @@ parameters:
     description: The card that gets checked.
 returns:
   - type: [ int ]
-    description: The Link Rating of the checked card or 0 if it has none(Rank or Level).
+    description: The Link Rating of the checked card or 0.

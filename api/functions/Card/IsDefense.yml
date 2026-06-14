@@ -14,4 +14,4 @@ parameters:
     description: The DEF Values that get checked.
 returns:
   - type: [ bool ]
-    description: true if the DEF of the checked card is equal to one of the given values after "c". false if not.
+    description: true if one of the values passed is equal to the DEF of "c".

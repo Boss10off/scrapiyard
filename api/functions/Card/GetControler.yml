@@ -11,4 +11,4 @@ parameters:
     description: The card that gets checked.
 returns:
   - type: [ int ]
-    description: The Player that controls the checked Card. 
+    description: The Player that controls "c". 
